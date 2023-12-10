@@ -1,6 +1,6 @@
-# Credit-Score-Classification
+# KDDM Final Project
 
-##Dataset
+## Datasets
 
 [Dataset URL](https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data)
 
